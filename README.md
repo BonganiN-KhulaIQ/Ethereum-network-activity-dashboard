@@ -22,6 +22,7 @@ The dashboard contains three visualizations:
 2. Ethereum Daily Transaction Volume (Last 30 Days)
 3. Ethereum Total Gas Fees Paid (Last 30 Days)
 
+https://dune.com/bonganianalytics6273/ethereum-network-activity-dashboard?utm_source=share&utm_medium=copy&utm_campaign=dashboard
 ---
 
 ## Dataset
